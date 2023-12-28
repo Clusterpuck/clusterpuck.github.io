@@ -49,11 +49,11 @@ const skillsSection = {
   subTitle: "Learn to code and code to learn. I love solving problems and finding a more efficient way of completing your task",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Embrace new technologies while learning existing traditions"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Engaging groups in collaborative and productive workshops "),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Developing framework projects for further expansion."
     )
   ],
 
@@ -285,7 +285,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Me 📱"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   email_address: "nicholas.g.wright86@gmail.com"
