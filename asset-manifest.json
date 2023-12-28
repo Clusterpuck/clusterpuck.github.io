@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.b4d788a6.css",
-    "main.js": "/static/js/main.0a338c38.js",
+    "main.js": "/static/js/main.f1a5088b.js",
     "static/css/64.0cbd7160.chunk.css": "/static/css/64.0cbd7160.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.2b442f47.chunk.js": "/static/js/769.2b442f47.chunk.js",
     "static/media/recipefinder.png": "/static/media/recipefinder.afe215fc42acf23ecab6.png",
-    "static/media/nickpresents.JPG": "/static/media/nickpresents.a55a283c2ccc2709f02e.JPG",
+    "static/media/nickpresents.JPG": "/static/media/nickpresents.9f67bd16c900e3562db3.JPG",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -20,7 +20,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.b4d788a6.css.map": "/static/css/main.b4d788a6.css.map",
-    "main.0a338c38.js.map": "/static/js/main.0a338c38.js.map",
+    "main.f1a5088b.js.map": "/static/js/main.f1a5088b.js.map",
     "64.0cbd7160.chunk.css.map": "/static/css/64.0cbd7160.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.b4d788a6.css",
-    "static/js/main.0a338c38.js"
+    "static/js/main.f1a5088b.js"
   ]
 }
