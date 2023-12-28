@@ -23,7 +23,7 @@ const greeting = {
   username: "Nicholas Wright",
   title: "Hi all, I'm Nick",
   subTitle: emoji(
-    "A passionate software engineering student 🎓 finding my feet with exciting new technologies in MVC frameworks, .NET development, android development, and database management. I've found a passion in collaborative learning and leading student engagement"
+    "As a dedicated software engineering student, I am actively exploring cutting-edge technologies, including MVC frameworks, .NET development, Android development, and database management. My enthusiasm lies in collaborative learning and fostering student engagement. I am particularly drawn to the prospect of transitioning into consulting, where I can leverage my problem-solving skills to address diverse challenges for businesses."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1f4Ye04RMktYeYhzHIpejAtyooIsA3LFs/view?usp=drive_link", // Set to empty to hide the button
