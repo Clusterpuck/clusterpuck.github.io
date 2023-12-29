@@ -171,6 +171,13 @@ const workExperiences = {
       companylogo: require("./assets/images/curtinlogo.jpg"),
       date: "Jan 2022 – Present",
       desc: "Planned and ran collaborative weekly workshops guiding computing students through challenging programming concepts."
+    },
+    {
+      role: "Sessional Computing Tutor",
+      company: "Curtin, EECMS",
+      companylogo: require("./assets/images/curtinlogo.jpg"),
+      date: "Jan 2022 – Present",
+      desc: "Lead students through workshop materials to help guide and develop good computing practices and lead to a strong understanding of programming concepts. Specifically in languages such as C and Java."
     }
   ]
 };
