@@ -51,13 +51,13 @@
 }
 
 .greeting-image-div > img {
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
   box-shadow: 0px 10px 30px 10px $darkBoxShadow;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.25s ease;
-  border-radius: 20px; /* Adjust the radius as needed */
+  border-radius: 10px; /* Adjust the radius as needed */
   border: 2px solid $buttonHover; /* You can change the border width and color */
   
 }
@@ -120,7 +120,7 @@
     display: block;
   }
   .greeting-image-div {
-    height: 256px;
+    width: auto;
   }
 }
 
