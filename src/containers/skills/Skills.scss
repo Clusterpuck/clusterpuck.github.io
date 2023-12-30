@@ -8,12 +8,19 @@
 
 .skills-text-div {
   margin-left: 50px;
+  flex: 2;
+}
+
+.skills-image-div {
+  flex: 1;
+  display: flex;
+  align-items: center;
 }
 
 .skills-main-div > * {
-  flex: 1;
   margin-bottom: 30px;
 }
+
 
 .skills-image-div > img {
   max-width: 100%;
