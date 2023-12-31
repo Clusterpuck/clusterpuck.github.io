@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5625be0d.css",
-    "main.js": "/static/js/main.90e5d250.js",
+    "main.css": "/static/css/main.58bafe28.css",
+    "main.js": "/static/js/main.00f633be.js",
     "static/css/64.f33f0646.chunk.css": "/static/css/64.f33f0646.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.6ea445c6.chunk.css": "/static/css/769.6ea445c6.chunk.css",
@@ -9,6 +9,7 @@
     "static/media/recipefinder.png": "/static/media/recipefinder.31594fd265f49fdb6fc9.png",
     "static/media/nickpresents.JPG": "/static/media/nickpresents.6eb168267f37db2da5f2.JPG",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/android-chrome-192x192.png": "/static/media/android-chrome-192x192.3b0e2c7a43927bbc5e3d.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/curtinlogo.png": "/static/media/curtinlogo.ceb693fde6201a1f1c26.png",
@@ -19,15 +20,15 @@
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.5625be0d.css.map": "/static/css/main.5625be0d.css.map",
-    "main.90e5d250.js.map": "/static/js/main.90e5d250.js.map",
+    "main.58bafe28.css.map": "/static/css/main.58bafe28.css.map",
+    "main.00f633be.js.map": "/static/js/main.00f633be.js.map",
     "64.f33f0646.chunk.css.map": "/static/css/64.f33f0646.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.6ea445c6.chunk.css.map": "/static/css/769.6ea445c6.chunk.css.map",
     "769.2b442f47.chunk.js.map": "/static/js/769.2b442f47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5625be0d.css",
-    "static/js/main.90e5d250.js"
+    "static/css/main.58bafe28.css",
+    "static/js/main.00f633be.js"
   ]
 }
