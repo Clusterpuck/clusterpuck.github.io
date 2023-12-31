@@ -26,7 +26,8 @@ export default function Greeting() {
               >
                 {" "}
                 {greeting.title}{" "}
-                <span className="wave-emoji">{emoji("👋")}</span>
+                <span class="nodding-image"></span>
+                
               </h1>
               <p
                 className={
