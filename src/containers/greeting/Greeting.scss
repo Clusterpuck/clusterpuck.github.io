@@ -69,8 +69,20 @@
 .wave-emoji {
   animation-duration: 1.8s;
   animation-iteration-count: infinite;
-  animation-name: wave;
+  animation-name: nod;
   display: inline-block;
+  transform-origin: 70% 70%;
+}
+
+
+.nodding-image {
+  animation-duration: 1.8s;
+  animation-iteration-count: infinite;
+  animation-name: nod;
+  display: inline-block;
+  width: 7%;
+  content: url("../../../public/android-chrome-192x192.png");
+  
   transform-origin: 70% 70%;
 }
 
@@ -97,6 +109,25 @@
     transform: rotate(0deg);
   }
 }
+@keyframes nod {
+  0%, 100% {
+    transform: scaleY(1);
+  }
+  20% {
+    transform: scaleY(0.8);
+  }
+  40% {
+    transform: scaleY(1.2);
+  }
+  60% {
+    transform: scaleY(0.9);
+  }
+  80% {
+    transform: scaleY(1.1);
+  }
+}
+
+
 
 /* Media Query */
 @media (max-width: 1380px) {
