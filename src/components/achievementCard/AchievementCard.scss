@@ -17,6 +17,20 @@
   font-size: 1.063rem;
   line-height: 1.5rem;
 }
+
+
+.certificate-card-dark {
+  background-color: $lightBackground2;
+  box-shadow: 0px 10px 30px -15px $darkBoxShadow;
+  padding: 1.5rem;
+  border-radius: 10px;
+  border: 1px solid $lightBorder1;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+
 .certificate-card {
   background-color: $lightBackground2;
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
@@ -27,13 +41,15 @@
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
+
 .certificate-detail-div {
   text-align: center;
 }
 .certificate-card:hover {
   box-shadow: $lightBoxShadowDark 0px 20px 30px -10px;
 }
-.dark-mode.certificate-card:hover {
+
+.dark-mode.certificate-card-dark:hover {
   box-shadow: $darkBoxShadow 0px 20px 30px -10px;
 }
 .certificate-image-div {
