@@ -24,7 +24,7 @@
   
   background-color: $lightBackground1;
   max-width: 100%;
-  padding: 2px 5px;
+  padding: 2px 2px;
   margin: 0px auto;
   font-size: 1.5em;
 }
@@ -42,7 +42,7 @@
 
 .header li a {
   display: block;
-  padding: 5px 15px;
+  padding: 5px 7px;
   color: $textColor;
   text-decoration: none;
 }
@@ -173,7 +173,7 @@
 @media (min-width: 48em) {
   .header li {
     float: left;
-    margin-top: 10px;
+    margin-top: 2px;
   }
   .header {
     display: flex;
@@ -190,6 +190,10 @@
 }
 @media (min-width: 768px) {
   .header {
-    font-size: 0.5em;
+    font-size: 0.7em;
+  }
+  .menu {
+    display: flex;
+    align-items: center;
   }
 }
