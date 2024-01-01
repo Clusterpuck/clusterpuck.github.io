@@ -96,3 +96,10 @@
     text-align: center;
   }
 }
+
+@media (max-width: 500px) {
+  .project-card {
+    max-width: 90%;
+  }
+
+}
