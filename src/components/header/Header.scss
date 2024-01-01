@@ -5,6 +5,10 @@
   max-height: 100px;
 }
 
+.logo {
+  color: $darkTextColor;
+}
+
 /* header */
 
 .dark-menu {
@@ -37,7 +41,7 @@
 }
 
 .grey-color {
-  color: $secondaryColor;
+  color: $darkTextSecondary;
 }
 
 .header li a {
@@ -56,7 +60,7 @@
   display: block;
   flex: none;
   float: left;
-  font-size: 1.2em;
+  font-size: 1.5em;
   text-decoration: none;
   margin-top: 2px;
   line-height: normal;
@@ -73,6 +77,7 @@
 /* menu */
 
 .header .menu {
+  
   clear: both;
   max-height: 0;
   transition: max-height 0.2s ease-out;
@@ -160,7 +165,11 @@
 }
 
 .header {
-  font-size: 10px;
+  font-size: 0.5em;
+}
+
+.menu {
+  font-size: 1.5em;
 }
 
 .logo-name {
@@ -190,7 +199,7 @@
 }
 @media (min-width: 768px) {
   .header {
-    font-size: 0.7em;
+    font-size: 0.6em;
   }
   .menu {
     display: flex;
