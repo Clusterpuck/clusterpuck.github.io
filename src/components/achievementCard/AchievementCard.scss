@@ -93,3 +93,17 @@
 span.certificate-tag:hover {
   background: $buttonHover;
 }
+
+@media (max-width: 500px)
+{
+  .certificate-card-dark {
+    max-width: 90%;
+  }
+
+    
+  .certificate-card {
+    max-width: 90%;
+  }
+
+
+}
