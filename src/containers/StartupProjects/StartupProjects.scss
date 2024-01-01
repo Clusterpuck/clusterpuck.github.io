@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 15px;
+  width: 100%;
 }
 
 .card-image {
@@ -32,6 +32,7 @@
   border-radius: 10px;
   border: 1px solid $lightBorder1;
   justify-content: center;
+  max-width: 50%;
 }
 .project-card-light {
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
