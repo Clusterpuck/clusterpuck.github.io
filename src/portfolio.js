@@ -149,17 +149,6 @@ const workExperiences = {
   experience: [
     {
       role: "Intern",
-      company: "Programmed/Innovation Central Perth",
-      companylogo: require("./assets/images/programmedlogo.png"),
-      date: "Novemeber 2022 – February 2023",
-      desc: "Developed a sustainability dashboard with Power BI",
-      descBullets: [
-        "Developed a scheme to interface with multiple existing databases",
-        "Cleaned data and provided methods for generic data updates"
-      ]
-    },
-    {
-      role: "Intern",
       company: "AVI",
       companylogo: require("./assets/images/avilogo.png"),
       date: "November 2023 – February 2024",
@@ -171,6 +160,16 @@ const workExperiences = {
       companylogo: require("./assets/images/curtinlogo.jpg"),
       date: "Jan 2022 – Present",
       desc: "Planned and ran collaborative weekly workshops guiding computing students through challenging programming concepts."
+    },
+    {
+      role: "Intern",
+      company: "Programmed/Innovation Central Perth",
+      companylogo: require("./assets/images/programmedlogo.png"),
+      date: "Novemeber 2022 – February 2023",
+      desc: "Developed a sustainability dashboard with Power BI\n" +
+      "Included a scheme to interface with multiple existing databases, " + 
+      "and cleaned data and provided methods for generic data updates" ,
+     
     },
     {
       role: "Sessional Computing Tutor",
