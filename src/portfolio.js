@@ -46,14 +46,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Learn to code and code to learn. I love solving problems and finding a more efficient way of completing your task",
+  subTitle: "Learn to code and code to learn. I love solving problems and finding a more efficient way of completing your task.",
   skills: [
     emoji(
       "⚡ Embrace new technologies while learning existing traditions"
     ),
     emoji("⚡ Engaging groups in collaborative and productive workshops "),
     emoji(
-      "⚡ Developing framework projects for further expansion."
+      "⚡ Developing framework projects for further expansion"
     )
   ],
 
@@ -88,7 +88,12 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
-    }
+    },
+    {
+      skillName: "node.js",
+      fontAwesomeClassname: "fab fa-node-js"
+    },
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -103,7 +108,7 @@ const educationInfo = {
       logo: require("./assets/images/curtinlogo.jpg"),
       subHeader: "Bachelor of Computing: Software Engineering",
       duration: "February 2021 - November 2024",
-      desc: "Completed units with development in .NET, MVC, SQL database, Agile Development etc",
+      desc: "Completed units with development in .NET, MVC, SQL database, Agile Development etc.",
       descBullets: [
         "Obtained letter of commendation multiple times",
         "Achieved VC list",
@@ -114,8 +119,8 @@ const educationInfo = {
       schoolName: "Curtin University",
       logo: require("./assets/images/curtinlogo.jpg"),
       subHeader: "Bachelor of Science in Nanotechnology",
-      duration: "February 2005 - Novemeber 2012",
-      desc: "Completed a Computation Chemistry dissertation on the Chemisorption of Carbon Nanotubes",
+      duration: "February 2005 - November 2012",
+      desc: "Completed a Computation Chemistry dissertation on the Chemisorption of Carbon Nanotubes.",
       descBullets: ["Covered both chemistry and physics units"]
     }
   ]
@@ -149,17 +154,6 @@ const workExperiences = {
   experience: [
     {
       role: "Intern",
-      company: "Programmed/Innovation Central Perth",
-      companylogo: require("./assets/images/programmedlogo.png"),
-      date: "Novemeber 2022 – February 2023",
-      desc: "Developed a sustainability dashboard with Power BI",
-      descBullets: [
-        "Developed a scheme to interface with multiple existing databases",
-        "Cleaned data and provided methods for generic data updates"
-      ]
-    },
-    {
-      role: "Intern",
       company: "AVI",
       companylogo: require("./assets/images/avilogo.png"),
       date: "November 2023 – February 2024",
@@ -167,17 +161,27 @@ const workExperiences = {
     },
     {
       role: "Senior Peer Learning Facilitator",
-      company: "Curtin, UniPASS",
+      company: "Curtin University, UniPASS",
       companylogo: require("./assets/images/curtinlogo.jpg"),
-      date: "Jan 2022 – Present",
+      date: "January 2022 – Present",
       desc: "Planned and ran collaborative weekly workshops guiding computing students through challenging programming concepts."
     },
     {
+      role: "Intern",
+      company: "Programmed/Innovation Central Perth",
+      companylogo: require("./assets/images/programmedlogo.png"),
+      date: "November 2022 – February 2023",
+      desc: "Developed a sustainability dashboard with Power BI.\n" +
+      "Included a scheme to interface with multiple existing databases, " + 
+      "and cleaned data and provided methods for generic data updates." ,
+     
+    },
+    {
       role: "Sessional Computing Tutor",
-      company: "Curtin, EECMS",
+      company: "Curtin University, EECMS",
       companylogo: require("./assets/images/curtinlogo.jpg"),
-      date: "Jan 2022 – Present",
-      desc: "Lead students through workshop materials to help guide and develop good computing practices and lead to a strong understanding of programming concepts. Specifically in languages such as C and Java."
+      date: "January 2022 – Present",
+      desc: "Guide students through workshop materials to foster a solid understanding of programming concepts and encourage the development of good computing practices. Focus will be on languages such as C and Java."
     }
   ]
 };
@@ -194,12 +198,12 @@ const openSource = {
 
 const bigProjects = {
   title: "Personal Projects",
-  subtitle: "Some projects I have developed to practice and learn new skills",
+  subtitle: "Some projects I have developed to practice and learn new skills.",
   projects: [
     {
       image: require("./assets/images/recipefinder.png"),
       projectName: "Recipe Finder",
-      projectDesc: "My first API and React project to find recipes based on ingredients",
+      projectDesc: "My first API and React project to find recipes based on ingredients.",
       footerLink: [
         {
           name: "Visit Website",
@@ -216,9 +220,9 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Achievements and Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Achievements, Certifications, Award Letters and some cool stuff that I have done!",
 
   achievementsCards: [
     {
